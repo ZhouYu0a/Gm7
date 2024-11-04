@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+C:\Users\user\Desktop\Gm7\P13\P13\main.c(13,2): warning C4098: 'main': 'void' 函式正在傳回值
+  P13.vcxproj -> C:\Users\user\Desktop\Gm7\P13\P13.exe
